@@ -10,7 +10,6 @@ Pour son utilisation, consultez la documentation en ligne.
 Auteur:                Thammas <thammas2000@gmail.com>
 Homepage:              sites.google.com/site/thammasprojects/betasub
 Documentation script:  sites.google.com/site/thammasprojects/betasub/doc-fr
-Documentation module:  sites.google.com/site/thammasprojects/betasub/module-fr
 """
 __version__ = '0.6'
 
